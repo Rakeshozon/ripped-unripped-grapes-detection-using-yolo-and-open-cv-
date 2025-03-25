@@ -83,3 +83,5 @@ This project is licensed under the MIT License.
 - Enhance the tracking algorithm for improved accuracy.
 - Expand detection to include different fruit types.
 
+[Download YOLO Model](https://drive.google.com/file/d/1rQNjqBI9jcxcGTvf17JREvY3DTCxbavu/view?usp=drive_link)
+
